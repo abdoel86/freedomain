@@ -1,0 +1,14 @@
+{
+    "domain": "is-a-fullstack.dev",
+    "subdomain": "thomasmiller",
+
+    "owner": {
+        "email": "thomasmiller134@gmail.com"
+    },
+
+    "record": {
+        "A": "128.204.223.117"
+    },
+
+    "proxied": true
+}
